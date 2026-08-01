@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Siki
 
-<!--
-**SikiLee/SikiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical RAG systems with a focus on reproducible evaluation, retrieval quality, and controlled chunking workflows.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [rag](https://github.com/SikiLee/rag) — Reproducible RAG evaluation, quality governance, and controlled chunking strategy recommendations.
+- [FaithfulRAG-Obsidian](https://github.com/SikiLee/FaithfulRAG-Obsidian) — Faithful RAG workflows for Obsidian.
+
+## Focus areas
+
+`RAG` · `LLM Evaluation` · `Retrieval Quality` · `Chunking` · `Knowledge-base Engineering`
+
+## Contact
+
+- GitHub: [@SikiLee](https://github.com/SikiLee)
